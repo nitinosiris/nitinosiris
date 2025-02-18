@@ -1,8 +1,27 @@
-- 👋 Hi, I’m Nitin Wartkar
-- 👀 I’m interested in contributing to open source Projects and learning new technologies.
-- 🌱 I’m currently learning Golang, Node.js
+# 🚀 Software Development Engineer @ Siemens Healthineers
 
-<!---
-nitinosiris/nitinosiris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Education
+
+• Bachelor's degree in **Computer Science** from **Visvesvaraya National Institute of Technology (VNIT)**
+
+## 💻 Current Role
+
+• **Software Development Engineer** at **Siemens Healthineers**
+
+## 🚀 Impact
+
+• ⚡ **Optimized application performance** by reducing response times
+• 🔄 **Streamlined deployments**, enhancing efficiency and user experience
+
+## 🛠 Tech Stack
+
+• 🏗 **Languages & Frameworks**: C#, .NET
+• 📦 **Containerization**: Docker
+• ☁ **Cloud Services**: Azure & Kubernetes
+• 🔄 **Asynchronous Programming**
+• 🔐 **Secure Authentication Integration**
+
+## 🎯 Focus
+
+• Building **scalable & secure** healthcare applications to **advance industry tech**
+
